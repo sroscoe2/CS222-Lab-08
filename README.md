@@ -14,9 +14,7 @@ Some of the starter code, and a good chunk of JUnit test cases used comes from D
 
 1. Clone this lab from Github. Use this link: <https://github.com/sroscoe2/CS222-Lab-08.git> Refer to Lab 1 if you need a refresher for how to do so. REMEMBER: when importing, name your folder `firstnameLIpartnerLI-CS222-Lab-08`
 
-### Recursion Problems
-
-#### Fibonacci
+### Fibonacci
 
 2. [About Fibonacci](#fibonacci-numbers) Open `Fibonacci.java`. Write a [naive](#fibonacci----naive) recursive implementation in the `naiveFib()` method, to compute the `n`th Fibonacci number. Assume that the 0th and 1st Fibonacci numbers are 1 and 1.
 
@@ -36,13 +34,13 @@ Some of the starter code, and a good chunk of JUnit test cases used comes from D
 
 7. Run `RecursionTests.java` in the `test` package and ensure all the Fibonacci-related test cases pass.
 
-#### Pell
+### Pell
 
 8. Read up on [Pell numbers](#pell-numbers). Then implement a memoized recursive function that calculates the `n`th Pell number.
 
 9. Run `RecursionTests.java` in the `test` package and ensure all the Pell-related test cases pass.
 
-#### Palindrome
+### Palindrome
 
 10. Read up on [Palindromes](#palindromes). Then, write a recursive method that figures out if a given word is a palindrome.
 
